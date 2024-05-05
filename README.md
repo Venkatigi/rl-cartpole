@@ -157,16 +157,16 @@ def mc_control (env,n_bins=g_bins, gamma = 1.0,
 ## OUTPUT:
 1. Specify the average number of steps achieved within two minutes when the Monte Carlo (MC) control algorithm is initiated with zero-initialized Q-values.
 
-![324844181-8ccb911d-6a22-43f3-b9e2-751ed8dee898](https://github.com/Venkatigi/rl-cartpole/assets/94154252/2de2d7e1-b7e9-4567-93ef-036eb6548693)
+![image](https://github.com/Venkatigi/rl-cartpole/assets/94154252/aacbe91f-45be-4c36-8933-bebf1e623d48)
 
 
 2. Mention the average number of steps maintained over a four-minute period when the Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
 
-![324844268-d26e73c8-2365-478b-b099-a5041047de8f](https://github.com/Venkatigi/rl-cartpole/assets/94154252/fa17dec4-9ea0-4b8a-bc1c-eecdf649f465)
+![image](https://github.com/Venkatigi/rl-cartpole/assets/94154252/2c96317b-5ccf-4aff-914f-3524ebd3681e)
 
 3. In your submission text, mention the average number of steps maintained over a four-minute period when the Monte Carlo (MC) control algorithm is executed with pretrained Q-values.
 
-![324844358-3a6d6d0a-d6bd-4605-a96d-ea40a719ecb5](https://github.com/Venkatigi/rl-cartpole/assets/94154252/0287d3c8-9283-405b-886c-c3f0b15f0b1d)
+![image](https://github.com/Venkatigi/rl-cartpole/assets/94154252/1f268912-70ab-45bf-abcd-d5c5e06c03cd)
 
 
 
